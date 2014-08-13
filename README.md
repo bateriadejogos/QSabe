@@ -1,6 +1,6 @@
 Projeto QSabe
 =====
-Ferramenta para troca de informações dentro de uma comunidade virtual funcionando como um mediador das interações entre seus usuários.
+Ferramenta para troca de informações dentro de uma comunidade virtual funcionando como um mediador das interações entre seus usuários. (Ainda em configuração com o GitHub, códigos a partir de 20/08/14)
 
 Tecnologias e configuração
 =====
