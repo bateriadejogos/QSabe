@@ -8,4 +8,4 @@ O sistema utiliza o Phython 2.6 ou superior, Django 1.6.4, NLTK 3 e a base de da
 $ python manage.py syncdb
 
 Após resolver o banco basta entrar em seu bowser em http://hostname/admin e colocar o login e a senha que você informou e gerir a base de dados.
-Entrnado em http://hostname você entra no sistema.
+Entrnado em http://hostname você entra no sistema. :)
